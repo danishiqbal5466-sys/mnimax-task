@@ -1,0 +1,1 @@
+# mnimax-task
